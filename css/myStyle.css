@@ -1,3 +1,10 @@
+#nav-right {
+  flex: 1 1 auto;
+  justify-content: flex-end;
+  margin-left: auto;
+  display: flex;
+  flex-wrap: nowrap;
+}
 /* 主页所有文章页面背景 */
 #aside_content .card-widget,
 #recent-posts>.recent-post-item,
@@ -17,13 +24,13 @@
 }
 /*文章页面*/
 .layout>#post {
-  background: rgba(255,255,255,0.3);
+  background: rgba(255,255,255,0.8);
 }
 /*分类页面*/
 .layout>#page {
-  background: rgba(255,255,255,0.6);
+  background: rgba(255,255,255,0.8);
 }
 /*时间轴页面*/
 .layout>#archive {
-  background: rgba(255,255,255,0.6);
+  background: rgba(255,255,255,0.8);
 }
