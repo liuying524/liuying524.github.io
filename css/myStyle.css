@@ -193,6 +193,10 @@ h6::before {
   -webkit-animation: ccc 6s linear infinite;
   animation: ccc 6s linear infinite;
 }
+.loading-img {
+  background: url("./img/222.jpg") no-repeat center center;
+  background-size: cover;
+}
 @-moz-keyframes ccc {
   0% {
     -webkit-transform: rotate(0deg);
