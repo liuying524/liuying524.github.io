@@ -13,7 +13,8 @@
 #nav #site-name:hover,
 #nav .menus_item:hover,
 #nav #search-button:hover {
-  font-size: 25px;
+  font-size: 28px;
+  font-color: #f03;
 }
 #page-header {
   background: transparent !important;
