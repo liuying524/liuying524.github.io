@@ -197,6 +197,11 @@ h6::before {
   background: url("./img/222.jpg") no-repeat center center;
   background-size: cover;
 }
+/* 翻页按钮居中 */
+#pagination {
+  width: 100%;
+  margin: auto;
+}
 @-moz-keyframes ccc {
   0% {
     -webkit-transform: rotate(0deg);
