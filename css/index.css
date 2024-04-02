@@ -1599,7 +1599,7 @@ a:hover {
 .site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: TT;
+  font-family: ZM;
 }
 .is-center {
   text-align: center;
@@ -4728,7 +4728,7 @@ mjx-assistive-mml {
   }
 }
 [data-theme="dark"] #web_bg {
-  background: url("../img/02.jpg");
+  background: url("../img/08.jpg");
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4743,7 +4743,7 @@ mjx-assistive-mml {
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url("../img/02.jpg") !important;
+    background: url("../img/08.jpg") !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
